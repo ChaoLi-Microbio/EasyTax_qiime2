@@ -1,0 +1,3 @@
+SampleID	Community
+Mock1_S1	mock1
+Mock2_S2	mock2
