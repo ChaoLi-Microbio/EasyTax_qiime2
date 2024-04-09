@@ -3,13 +3,13 @@
 Including 3 classifiers
 
 Qiime2 pipeline usage briefed for taxonomy classification:
-## qiime2 data process
+# qiime2 data process
 
-##put the classifier into the folder with your data
+#put the classifier into the folder with your data
 
 cd (your data directory/folder) 
 
-##edit your metadata.txt file according to example file (barcodes, samples_id, and other categorical description column etc.) 
+#edit your metadata.txt file according to example file (barcodes, samples_id, and other categorical description column etc.) 
 conda activate qiime2-2022.11
 
 
