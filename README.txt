@@ -1,9 +1,7 @@
-# Classifiers for qiime2(Trained from GreenGene2, Sliva138.1 & RDP)
-##Description:Classifier datasets fitting for qiime2 (trained for full region and v4 region)
-Including 3 classifiers
+# Description:Classifier datasets fitting for qiime2 (trained for full region and v4 region)
+# 6 classifiers for qiime2 (Trained from GreenGene2, Sliva138.1 & RDP)
 
-Qiime2 pipeline usage briefed for taxonomy classification:
-# qiime2 data process
+#Process of qiime2 briefed for taxonomy classification:
 
 #put the classifier into the folder with your data
 
