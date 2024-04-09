@@ -10,8 +10,8 @@ Qiime2 pipeline usage briefed for taxonomy classification:
 cd (your data directory/folder) 
 
 #edit your metadata.txt file according to example file (barcodes, samples_id, and other categorical description column etc.) 
-conda activate qiime2-2022.11
 
+conda activate qiime2-2022.11
 
 #produce metadata(mainfest) 
 #(change the format of "\t$PWD/"$1"_L001_R1_001.fastq\t$PWD/"$1"_L001_R2_001.fastq" below to match with your sample name)
