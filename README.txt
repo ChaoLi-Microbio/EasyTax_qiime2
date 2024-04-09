@@ -8,7 +8,7 @@
 cd (your data directory/folder) 
 
 #edit your metadata.txt file according to example file (barcodes, samples_id, and other categorical description column etc.) 
-
+#activate conda environment(Not necessary qiime2-2022.11)
 conda activate qiime2-2022.11
 
 #produce metadata(mainfest) 
