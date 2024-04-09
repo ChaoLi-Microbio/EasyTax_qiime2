@@ -16,7 +16,9 @@ conda activate qiime2-2022.11
 #produce metadata(mainfest) 
 #(change the format of "\t$PWD/"$1"_L001_R1_001.fastq\t$PWD/"$1"_L001_R2_001.fastq" below to match with your sample name)
 
-awk 'NR==1{print "sample-id\tforward-absolute-filepath\treverse-absolute-filepath"} NR>1{print $1"\t$PWD/"$1"_L001_R1_001.fastq\t$PWD/"$1"_L001_R2_001.fastq"}' metadata.txt > manifest
+awk 'NR==1{print "sample-id\tforward-absolute-filepath\treverse-absolute-filepath"} \
+NR>1{print $1"\t$PWD/"$1"_L001_R1_001.fastq\t$PWD/"$1"_L001_R2_001.fastq"}' \
+metadata.txt > manifest
 
 #demutiplexing (demux.qza)
 qiime tools import \
