@@ -2,7 +2,7 @@
 ## 6 classifiers for qiime2 (Trained from GreenGene2, Sliva138.1 & RDP)
 
 #### 1st, install conda and qiime2 according to the official doc!
-#### 2nd. run commands from "qiime.sh" step by step
+#### 2nd. run commands from "qiime2.sh" step by step
 #### 3rd, here you go, have fun!
 
 ### Citation:
