@@ -1,7 +1,8 @@
+#IMPORTANT, down the classifier from the release, put it into your data folder!
 ## qiime2 data process
-cd (your directory/folder) 
+cd (your data directory/folder) 
 
-##edit your metadata.txt file according to example file (barcodes, samples_id, and other categorical description column etc.) 
+##edit your metadata.txt file according to the example file (barcodes, samples_id, and other categorical description columns, etc.) 
 conda activate qiime2-2022.11
 
 
