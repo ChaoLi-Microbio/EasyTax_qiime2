@@ -111,3 +111,9 @@
 	qiime phylogeny align-to-tree-mafft-fasttree \
 	--i-sequences rep-seqs.qza \
 	--output-dir phylogeny-align-to-tree-mafft-fasttree
+## Here you go, have fun!
+### Citation:
+### If use this script, please cite the following:
+# Stay Tuned!
+
+
