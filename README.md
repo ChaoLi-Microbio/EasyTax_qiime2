@@ -1,8 +1,8 @@
 # Classifiers fitting for qiime2 (trained for full region and v4 region)
 ## 6 classifiers for qiime2 (Trained from GreenGene2, Sliva138.1 & RDP)
 
-#Process of qiime2 briefed for taxonomy classification:\
-#put the classifier into the folder with your data
+### First of all, install conda and qiime2 according to the official doc!
+#Then, put the classifier into the folder with your data
 	
 	cd (your data directory/folder) 
 
