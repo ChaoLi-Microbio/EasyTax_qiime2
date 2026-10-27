@@ -6,6 +6,6 @@
 ## Here you go, have fun!
 
 ### Citation: If use this script, please cite the following
-"Database-Pipeline Interactions Shape Taxonomic Inference in 16S rRNA Microbial Community Profiling", 2026, ISMECOMMUN-D-26-00272 (Under Review)
+"Database-Pipeline Interactions Shape Taxonomic Inference in 16S rRNA Microbial Community Profiling", 2026, ISME Communications, ycag299, https://doi.org/10.1093/ismeco/ycag299
 
 
